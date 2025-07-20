@@ -1,4 +1,7 @@
 # Walmart360: Advanced SQL Analysis Portfolio
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Coming_Soon-yellow)
+![Project-Status](https://img.shields.io/badge/Status-Active-green)
 
 This repository demonstrates advanced SQL analytics and interview-ready queries using the `walmart_sales` dataset. The focus is on business-oriented SQL problems commonly asked in data analyst interviews.
 
